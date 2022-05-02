@@ -1,0 +1,5 @@
+Starbucks logo: http://assets.stickpng.com/images/58428cc1a6515b1e0ad75ab1.png
+Starbucks wallpaper: https://images.pexels.com/photos/303324/pexels-photo-303324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=640&w=940
+cappuccino: https://images.pexels.com/photos/851555/pexels-photo-851555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+Latte: https://images.pexels.com/photos/894696/pexels-photo-894696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500
+Mocha: https://images.pexels.com/photos/1006297/pexels-photo-1006297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
